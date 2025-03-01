@@ -1,0 +1,15 @@
+# Vim/Neovim swap and undo files
+.*~
+*.un~
+.*.un~
+
+# Python files
+bezier_divider.py
+
+# Output images
+*_output.png
+*_gradient.png
+jigsaw_debug_grid.png
+
+# Directories
+jigsaw_pieces/
