@@ -3,9 +3,6 @@
 *.un~
 .*.un~
 
-# Python files
-bezier_divider.py
-
 # Output images
 *_output.png
 *_gradient.png
